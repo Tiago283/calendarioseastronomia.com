@@ -40,7 +40,7 @@ header {
     font-weight: 500;
 }
 
-#lista-mobile {
+#mobile-menu {
     display: none;
 }
 
@@ -60,5 +60,24 @@ header {
 
     #lista-secoes {
         display: none;
+    }
+
+    #mobile-menu.visivel {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #lista-mobile {
+        list-style: none;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .secao-mobile a {
+        text-decoration: none;
+        color: yellow;
+        font-weight: 500;
     }
 }
