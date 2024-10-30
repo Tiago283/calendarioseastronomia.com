@@ -24,20 +24,20 @@ header {
 }
 
 #logo {
-    font-size: large;
+    font-size: 26px;
     color: yellow;
-    font-weight: 100;
 }
 
 #lista-secoes {
     list-style: none;
     display: flex;
-    gap: 25px;
+    gap: 28px;
 }
 
 .secao a {
     text-decoration: none;
     color: yellow;
+    font-weight: 500;
 }
 
 #lista-mobile {
@@ -45,9 +45,20 @@ header {
 }
 
 #mobile-btn {
-    background-color: transparent;
-    color: yellow;
-    border: none;
-    cursor: pointer;
-    font-size: large;
+    display: none;
+}
+
+@media screen and (max-width: 768px) {
+    #mobile-btn {
+        background-color: transparent;
+        color: yellow;
+        border: none;
+        cursor: pointer;
+        font-size: large;
+        display: block;
+    }
+
+    #lista-secoes {
+        display: none;
+    }
 }
