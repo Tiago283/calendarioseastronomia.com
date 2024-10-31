@@ -52,8 +52,9 @@ main {
     padding: 20px 4%;
 }
 
-main h1, h2, h3{
+main h1, h2, h3 {
     color: white;
+    padding-top: 10px;
 }
 
 #main-tipos p {
@@ -99,6 +100,10 @@ main h1, h2, h3{
         display: flex;
         flex-direction: column;
         align-items: center;
+    }
+
+    main h2 {
+        font-size: larger;
     }
 
     #main-tipos p {
