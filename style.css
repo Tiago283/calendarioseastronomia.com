@@ -48,32 +48,6 @@ header {
     display: none;
 }
 
-main {
-    padding: 20px 4%;
-}
-
-main h1, h2{
-    color: white;
-}
-
-#main-tipos p {
-    font-size: larger;
-}
-
-.embrulho {
-    background-color: white;
-    margin: 10px;
-    padding: 10px;
-    border-radius: 1vh;
-    display: flex;
-}
-
-.embrulho img {
-    padding-right: 10px;
-    width: 250px;
-    height: 250px;
-}
-
 @media screen and (max-width: 970px) {
     #mobile-btn {
         background-color: transparent;
@@ -99,23 +73,5 @@ main h1, h2{
         display: flex;
         flex-direction: column;
         align-items: center;
-    }
-
-    #main-tipos p {
-        font-size: medium;
-    }
-
-    .embrulho {
-        display: flex;
-        align-items: center;
-        flex-direction: column;
-    }
-
-    .embrulho img {
-        padding-bottom: 10px;
-        padding-right: 0;
-        padding-left: 0;
-        width: 250px;
-        height: 250px;
     }
 }
