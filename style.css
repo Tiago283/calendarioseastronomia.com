@@ -48,7 +48,7 @@ header {
     display: none;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 970px) {
     #mobile-btn {
         background-color: transparent;
         color: yellow;
@@ -73,11 +73,5 @@ header {
         display: flex;
         flex-direction: column;
         align-items: center;
-    }
-
-    .secao-mobile a {
-        text-decoration: none;
-        color: yellow;
-        font-weight: 500;
     }
 }
