@@ -173,6 +173,25 @@ main h1, h2, h3 {
     padding-right: 10px;
 }
 
+.embrulho-bissexto {
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 1vh;
+    display: flex;
+}
+
+.embrulho-bissexto p {
+    font-size: larger;
+    padding-bottom: 10px;
+}
+
+.embrulho-bissexto img {
+    height: 400px;
+    width: 700px;
+    padding-right: 10px;
+}
+
 @media screen and (max-width: 1130px) {
     #mobile-btn {
         background-color: transparent;
@@ -305,6 +324,24 @@ main h1, h2, h3 {
     }
 
     .embrulho-calendarios img {
+        padding-bottom: 10px;
+        padding-right: 0;
+        padding-left: 0;
+        width: 250px;
+        height: 250px;
+    }
+
+    .embrulho-bissexto p {
+        font-size: medium;
+    }
+
+    .embrulho-bissexto {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .embrulho-bissexto img {
         padding-bottom: 10px;
         padding-right: 0;
         padding-left: 0;
