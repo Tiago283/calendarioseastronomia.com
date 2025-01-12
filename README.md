@@ -1,42 +1,27 @@
-# Calendário e Astronomia: Qual a Relação?
+# Calendários e Astronomia
 
-Este é um projeto criado para um trabalho escolar, com o objetivo de explorar e explicar a relação entre os calendários utilizados pela humanidade e os fenômenos astronômicos que os influenciam.
-
-## Sobre o Projeto
-
-O site aborda tópicos como:
-- A origem dos calendários.
-- A influência dos ciclos astronômicos (como o movimento da Terra) nos calendários.
-- Diferenças entre os calendários solares e lunares.
-- Curiosidades sobre o tempo e sua medição.
-
-O objetivo é apresentar essas informações de maneira clara e interativa, utilizando gráficos e recursos visuais.
+Este projeto explora a relação entre os calendários utilizados por diversas culturas e os fenômenos astronômicos que os influenciam. O site apresenta informações sobre a história dos calendários, seus diferentes tipos e curiosidades relacionadas.
 
 ## Estrutura do Site
 
-- **Home:** Introdução ao tema e objetivo do projeto.
-- **História dos Calendários:** Explicação sobre os principais tipos de calendários usados ao longo da história.
-- **Fenômenos Astronômicos:** Detalhamento dos movimentos celestes que influenciam o calendário, como:
-  - Rotação e translação da Terra.
-  - Fases da Lua.
-- **Curiosidades:** Fatos interessantes relacionados ao tempo e ao calendário.
-- **Conclusão:** Reflexão sobre a importância da astronomia para a organização do tempo.
+- **Início:** Introdução ao tema e apresentação dos integrantes do grupo.
+- **História:** Detalhes sobre a evolução dos calendários ao longo do tempo.
+- **Tipos:** Descrição dos principais tipos de calendários, como solar, lunar e lunissolar, além de exemplos específicos de diferentes culturas.
+- **Mais:** Informações adicionais sobre como as estrelas serviram como referência para navegação e marcação do tempo, a importância dos solstícios e equinócios, e explicações sobre anos bissextos.
 
 ## Tecnologias Utilizadas
 
-- **HTML** para a estrutura do site.
-- **CSS** para estilização.
-- **JavaScript** para interatividade.
+- **HTML5:** Para a estruturação das páginas.
+- **CSS3:** Para estilização e layout.
+- **JavaScript:** Para interatividade e funcionalidades dinâmicas.
+- **FontAwesome:** Para inclusão de ícones. :contentReference[oaicite:0]{index=0}
+- **Google Fonts:** Para utilização de fontes personalizadas. :contentReference[oaicite:1]{index=1}
 
-## Como Acessar o Site
+## Como Visualizar o Projeto
 
-Você pode acessar o site por meio do seguinte link:
-[Insira o link aqui]
-
-## Créditos
-
-Este site foi desenvolvido por [Seu Nome] como parte de um trabalho escolar da matéria de ciências na **EE Leda Guimarães Natal**.
+O site está hospedado no GitHub Pages e pode ser acessado através do seguinte link:
+[Calendários e Astronomia](https://tiago283.github.io/calendarioseastronomia.com/)
 
 ## Licença
 
-Este projeto é apenas para fins educacionais e não possui uma licença específica. Sinta-se à vontade para explorar e aprender com o conteúdo.
+Este projeto foi desenvolvido para fins educacionais e não possui uma licença específica. Sinta-se à vontade para explorar e aprender com o conteúdo.
