@@ -14,8 +14,8 @@ Este projeto explora a relação entre os calendários utilizados por diversas c
 - **HTML5:** Para a estruturação das páginas.
 - **CSS3:** Para estilização e layout.
 - **JavaScript:** Para interatividade e funcionalidades dinâmicas.
-- **FontAwesome:** Para inclusão de ícones. :contentReference[oaicite:0]{index=0}
-- **Google Fonts:** Para utilização de fontes personalizadas. :contentReference[oaicite:1]{index=1}
+- **FontAwesome:** Para inclusão de ícones.
+- **Google Fonts:** Para utilização de fontes personalizadas.
 
 ## Como Visualizar o Projeto
 
